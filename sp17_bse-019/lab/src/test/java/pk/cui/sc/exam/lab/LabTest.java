@@ -9,7 +9,7 @@ import org.junit.Test;
 
 public class LabTest {
 
-
+//done 
 	public void TestFarenhiteToCentigrade() {
 		assertEquals(10,Lab.fahrenheitToCentigrade(50));
 	}
